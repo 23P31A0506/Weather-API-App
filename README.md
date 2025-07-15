@@ -1,2 +1,16 @@
-# Weather-API-App
-This Weather API App is built using Python and the OpenWeatherMap API. It allows users to input a city name and retrieve the current weather and temperature in Fahrenheit. The program checks if the city exists and displays an error message if it is not found. It uses the requests library to fetch and handle live weather data.
+# 🌤️ Weather API App
+
+This is a simple Python application that fetches and displays real-time weather information for a given city using the **OpenWeatherMap API**.
+
+## 🧰 Features
+
+- Get current weather condition (e.g., Clear, Rain, Cloudy)
+- Shows temperature in **Fahrenheit**
+- Error handling for invalid city names
+
+## 🚀 How to Run
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/your-username/weather-api-app.git
+   cd weather-api-app
